@@ -23,6 +23,12 @@
 
 # JMeter
 
-**Записанный сценарий JMeter в формате jmx: [ссылка]()**
+**Записанный сценарий JMeter в формате jmx: [ссылка](https://github.com/Akimutina/Load_web/blob/main/BlazeMeter/Test-web-27-10-23.jmx)**
 
 **Cкриншоты сценария в JMeter**
+
+![ViewResultsTree]()
+![summary]()
+![aggregate]()
+![backend]()
+![response]()
