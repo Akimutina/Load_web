@@ -27,8 +27,8 @@
 
 **Cкриншоты сценария в JMeter**
 
-![ViewResultsTree]()
-![summary]()
-![aggregate]()
-![backend]()
-![response]()
+![ViewResultsTree](https://github.com/Akimutina/Load_web/blob/main/Jmeter/ViewResultsTree.png)
+![summary](https://github.com/Akimutina/Load_web/blob/main/Jmeter/summary.png)
+![aggregate](https://github.com/Akimutina/Load_web/blob/main/Jmeter/aggregate.png)
+![backend](https://github.com/Akimutina/Load_web/blob/main/Jmeter/backend.png)
+![response][(](https://github.com/Akimutina/Load_web/blob/main/Jmeter/response.png)https://github.com/Akimutina/Load_web/blob/main/Jmeter/response.png)
